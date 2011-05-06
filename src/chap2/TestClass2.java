@@ -50,6 +50,6 @@ public class TestClass2 {
 		//
 		// E - Oops...
 		//
-		// F-  Compilation fails due to an error on line 20
+		// F-  Compilation fails due to an error on line 22
 	}
 }
